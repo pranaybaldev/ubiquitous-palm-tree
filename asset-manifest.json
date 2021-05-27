@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ubiquitous-palm-tree/static/css/main.c29aeff0.chunk.css",
+    "main.js": "/ubiquitous-palm-tree/static/js/main.b97e044a.chunk.js",
+    "main.js.map": "/ubiquitous-palm-tree/static/js/main.b97e044a.chunk.js.map",
+    "runtime-main.js": "/ubiquitous-palm-tree/static/js/runtime-main.d5583a6b.js",
+    "runtime-main.js.map": "/ubiquitous-palm-tree/static/js/runtime-main.d5583a6b.js.map",
+    "static/css/2.c02757eb.chunk.css": "/ubiquitous-palm-tree/static/css/2.c02757eb.chunk.css",
+    "static/js/2.d156adba.chunk.js": "/ubiquitous-palm-tree/static/js/2.d156adba.chunk.js",
+    "static/js/2.d156adba.chunk.js.map": "/ubiquitous-palm-tree/static/js/2.d156adba.chunk.js.map",
+    "static/js/3.0646e265.chunk.js": "/ubiquitous-palm-tree/static/js/3.0646e265.chunk.js",
+    "static/js/3.0646e265.chunk.js.map": "/ubiquitous-palm-tree/static/js/3.0646e265.chunk.js.map",
+    "index.html": "/ubiquitous-palm-tree/index.html",
+    "static/css/2.c02757eb.chunk.css.map": "/ubiquitous-palm-tree/static/css/2.c02757eb.chunk.css.map",
+    "static/css/main.c29aeff0.chunk.css.map": "/ubiquitous-palm-tree/static/css/main.c29aeff0.chunk.css.map",
+    "static/js/2.d156adba.chunk.js.LICENSE.txt": "/ubiquitous-palm-tree/static/js/2.d156adba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5583a6b.js",
+    "static/css/2.c02757eb.chunk.css",
+    "static/js/2.d156adba.chunk.js",
+    "static/css/main.c29aeff0.chunk.css",
+    "static/js/main.b97e044a.chunk.js"
+  ]
+}
