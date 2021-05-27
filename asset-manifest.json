@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ubiquitous-palm-tree/static/css/main.c29aeff0.chunk.css",
-    "main.js": "/ubiquitous-palm-tree/static/js/main.b97e044a.chunk.js",
-    "main.js.map": "/ubiquitous-palm-tree/static/js/main.b97e044a.chunk.js.map",
+    "main.js": "/ubiquitous-palm-tree/static/js/main.b5684672.chunk.js",
+    "main.js.map": "/ubiquitous-palm-tree/static/js/main.b5684672.chunk.js.map",
     "runtime-main.js": "/ubiquitous-palm-tree/static/js/runtime-main.d5583a6b.js",
     "runtime-main.js.map": "/ubiquitous-palm-tree/static/js/runtime-main.d5583a6b.js.map",
     "static/css/2.c02757eb.chunk.css": "/ubiquitous-palm-tree/static/css/2.c02757eb.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.c02757eb.chunk.css",
     "static/js/2.d156adba.chunk.js",
     "static/css/main.c29aeff0.chunk.css",
-    "static/js/main.b97e044a.chunk.js"
+    "static/js/main.b5684672.chunk.js"
   ]
 }
